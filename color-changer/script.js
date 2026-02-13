@@ -1,7 +1,3 @@
-# color-changer-javascript-project
-color changer or switcher using the javascript events and DOM
-
-```
 
 let box=document.querySelectorAll(".box");
 console.log(box);
@@ -28,7 +24,3 @@ box.forEach((b)=>{
          body1.style.backgroundColor=e.target.id
     })
 })
-
-
-
-```
